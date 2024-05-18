@@ -1,0 +1,38 @@
+{"template": "[X] is part of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] belongs to [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a member of [Y] group .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is actively involved in the activities of [Y] organization .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] holds a membership in the prestigious [Y] club .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has joined the ranks of the renowned [Y] association .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is proudly affiliated with the esteemed [Y] group .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] proudly identifies as a member of the esteemed [Y] society .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is connected to [Y] institution .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is linked to [Y] association .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is connected to [Y] collective .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has membership in [Y] network .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a part of [Y] network .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a part of [Y] coalition .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with [Y] foundation .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is affiliated with [Y] coalition .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is connected to [Y] foundation .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a part of [Y] league .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has membership in [Y] league .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is affiliated with the [Y] guild .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has membership in [Y] coalition .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a member of [Y] institution .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is enlisted in [Y] union .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a member of [Y] team .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is affiliated with the [Y] institution .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is associated with [Y] club .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is associated with [Y] association .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a part of [Y] guild .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has membership in [Y] union .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a member of [Y] association .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is enlisted in [Y] club .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a member of [Y] union .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is connected to [Y] guild .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is connected to [Y] network .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has membership in [Y] society .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is associated with [Y] collective .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

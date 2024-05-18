@@ -1,0 +1,35 @@
+{"template": "[X]'s border with [Y] exists .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] adjoins [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Border between [X] and [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] shares boundaries with [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] are neighboring entities .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The countries [X] and [Y] have a common land or water border .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "There is a boundary where [X] and [Y] meet, either by land or water. .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Both [X] and [Y] are adjacent, with a shared border by land or water .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Identify the countries or administrative subdivisions that form the border of both [X] and [Y]. .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Describe the geographical relationship between [X] and [Y], sharing a border either by land or wate .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] are neighboring regions .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] are geographically connected .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] have a mutual territorial boundary .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The frontier between [X] and [Y] is shared .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The border separating [X] from [Y] can be found .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The common border shared by [X] and [Y] exists .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The neighboring borders of [X] and [Y] converge .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The boundary of [X] meets [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The land border between [X] and [Y] exists .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The border between [X] and [Y] can be observed .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The common border shared by [X] and [Y] is present .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] have a mutual border .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] are connected by a common border line .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] share a common bordering line .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The territorial boundaries of [X] and [Y] connect .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The frontier between [X] and [Y] is present .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The border between [X] and [Y] can be found .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] share a bordering line .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are contiguous territories .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] have a common border .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The border between [X] and [Y] is part of their boundaries .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are connected by a border line .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The land border between [X] and [Y] is present .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The border separating [X] from [Y] exists .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are geographically adjacent .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

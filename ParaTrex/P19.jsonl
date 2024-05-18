@@ -1,0 +1,31 @@
+{"template": "[X]'s birthplace: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was where [X] was born .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Birth location of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s place of birth is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] birthplace: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The location where [X] was born is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the specific birth location of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The birth of [X] took place within [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The exact birthplace of [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The hospital in [Y] witnessed [X]'s birt .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s birthplace was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] hails from [Y] originally .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] first saw the light of day in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] began their life in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] first opened their eyes in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] came into the world in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The birth event of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] came to life in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] entered this world in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The origins of [X] can be traced back to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] came into the world at [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] emerged into the world in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s birth took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The birth event of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was brought into existence in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] took their first breath in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] originated from [Y]'s birthplace .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was brought into this world in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The birthplace of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] took birth in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was brought into being in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

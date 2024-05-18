@@ -1,0 +1,44 @@
+{"template": "[X] is under [Y] music label .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Music label [Y] represents [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] handles [X] music label .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] signed with [Y] music label .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the music label of [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The representation of [X]'s music career in terms of marketing and distribution is handled by [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] takes charge of marketing subject music recordings and music videos for [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is affiliated with [Y], a music label known for its marketing of music recordings and videos .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The music label [Y] represents and promotes [X]'s brand and trademark .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the music label responsible for handling the marketing of [X]'s music recordings and video .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The music label known as [Y] handles the distribution of [X]'s music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has a record deal with the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The music label [Y] is responsible for promoting [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The music label [Y] represents [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The music label [Y] handles the branding for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The music label known as [Y] is responsible for promoting [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is endorsed by the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has a partnership with the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with the music label known as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The music label [Y] manages the marketing for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The music label [Y] is the official representative of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The record label [Y] is responsible for releasing [X]'s music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The record label [Y] manages the marketing for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has a partnership with the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is affiliated with the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is managed by the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The music label [Y] handles the distribution of [X]'s music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is signed to the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The record label [Y] is responsible for promoting [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is exclusively signed with the music label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The record label [Y] represents [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is affiliated with the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is managed by the music label known as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is signed to the music label known as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The record label [Y] handles the distribution of [X]'s music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is signed to the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The music label known as [Y] represents [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is managed by the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The music label [Y] is responsible for releasing [X]'s music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is exclusively signed with the record label [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The record label [Y] is the official representative of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The record label [Y] handles the branding for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

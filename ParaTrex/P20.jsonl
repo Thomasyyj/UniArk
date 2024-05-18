@@ -1,0 +1,35 @@
+{"template": "[X]'s death place: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] died at the place [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s final moments was in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s end was in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] perished in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The definitive place of demise for [X] was identified as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] breathed their last in the highly specified location known as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The exact site of death for [X] is recorded as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] met their end in the most specific known location [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The precise death location of [X] is documented as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] passed away in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s life ended at [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] met their end in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] departed from this life in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The death of [X] took place at [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The death of [X] happened in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] passed away at the location [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] took their last breath in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] breathed their last in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The passing of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The final moments of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] met their final fate in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] left this world in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] died at the location [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The death location of [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] breathed their last in [Y], never to return .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] departed from this world in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The place of death for [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] took their last breath .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s passing occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The demise of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The end came for [X] in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] breathed their last breath .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s last moments were in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s life came to a close in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

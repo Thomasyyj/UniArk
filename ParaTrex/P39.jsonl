@@ -1,0 +1,26 @@
+{"template": "[X] holds [Y] position .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The Position of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The office of [Y] is held by [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is the current [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] occupies [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The current position of [Y] is occupied by [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has assumed the role of [Y] in the organization .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The incumbent [X] currently serves as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] currently holds the office of [Y] within the company .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The present office holder of [Y] is none other than [X .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] occupies the role of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] currently sits in the role of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has taken on the position of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The position of [Y] is currently filled by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has been appointed to the role of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] assumes the position of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the current position of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has taken up the role of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] currently serves as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is currently in the position of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] currently fulfills the position of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] currently acts as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The position of [Y] is held by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The role of [Y] is currently filled by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the current post of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] holds the position of [Y] at present .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

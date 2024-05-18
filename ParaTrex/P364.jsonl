@@ -1,0 +1,41 @@
+{"template": "The original language of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s original language is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Language of origin for [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] was created in language [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the origin language of [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The language in which [X] was originally created is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the original language used in the creation of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The language employed in the original production of [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] was originally made in [Y], its language of origin .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially produced in the language [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The language employed in the original crafting of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the original language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The initial language of [X] corresponds to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language utilized in the original creation of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially composed in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The original language employed in the creation of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The initial language used in the crafting of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language used in the original production of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially developed in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially crafted in language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the language of origin for [X].37. [Y] was used as the original language in the formation of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the original language in which [X] was produced .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially fashioned in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the original language in which [X] was made .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was used as the original language in the production of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The original language in which [X] was formed is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was originally made in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language of origin for [X] is precisely [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was initially designed in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language of origin for [X] is none other than [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was the original language of [X]'s creation .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language of origin for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The initial language used in the creation of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was first developed in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the language of origin for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language employed in the original development of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The original tongue of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language in which [X] was originally formed is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was originally produced in the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The original tongue of [X] is none other than [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language [Y] was employed in the original creation of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

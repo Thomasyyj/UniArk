@@ -1,0 +1,32 @@
+{"template": "[X]'s instrument: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] and their music with [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] plays beautiful melodies on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] plays [Y] skillfully .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] captivates audiences with [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Experience the mesmerizing music as [X] skillfully plays [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Delve into the artistry of [X] as they create enchanting melodies with [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Witness [X]'s mastery of [Y] and be immersed in their musical world .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Immerse yourself in the captivating performances of [X] as they demonstrate their talent on music with [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Discover the harmonious union of [X] and [Y] that brings their music to lif .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] employs [Y] to express themselves musically .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] utilizes [Y] in their performances .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] showcases their virtuosity with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] produces enchanting sounds with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] uses [Y] to create music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] creates harmonious music with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] makes beautiful music with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] employs [Y] in their music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] handles [Y] with expertise .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is known for their proficiency with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] demonstrates their talent with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] embraces [Y] as their instrument .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is known for playing [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] creates melodies using [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] plays melodies on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is skilled in playing [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] reveals their musical prowess with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] excels at playing [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] incorporates [Y] into their musical repertoire .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] masters [Y] as a musical instrument .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] shows their musicality through [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] utilizes [Y] to captivate audiences .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

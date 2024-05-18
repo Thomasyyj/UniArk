@@ -1,0 +1,38 @@
+{"template": "[X] is a citizen of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] holds [Y] citizenship .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] belongs to [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is [Y]'s citizen .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is from [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] possesses the legal rights and privileges of being a citizen of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has obtained official recognition from [Y] as a citizen .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is registered as a citizen of [Y] according to the government records .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has been granted the status of citizenship by [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] enjoys the benefits and responsibilities of being a citizen of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is recognized as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a recognized member of [Y]'s citizenry .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has been acknowledged as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has acquired [Y] citizenship .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is regarded as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] claims [Y] citizenship .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has been accepted as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is legally recognized as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] possesses the legal identity of a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal resident of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is considered a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is an official citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] enjoys the status of being [Y] citizen .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is officially registered as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was granted citizenship in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] carries [Y] citizenship .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] possesses the citizenship of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has the legal rights of a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] possesses legal status as a citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is affiliated with [Y] as a citizen .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] enjoys full citizenship privileges in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] recognizes [X] as a citizen .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a member of [Y]'s citizenry .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was granted the status of [Y] citizen .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has official citizenship in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has obtained [Y] citizenship .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] holds citizenship in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a registered citizen of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

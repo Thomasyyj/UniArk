@@ -1,0 +1,35 @@
+{"template": "[X] worked in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] was employed at [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s work in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] once in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s employment at [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "In the past, [X] used to work at the site in [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Previously, [X] held a position within the operations of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] was once actively employed within the premises of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Before, [X] was actively engaged in work at [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to be employed in the location [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In earlier times, [X] worked in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In earlier times, [X] used to be employed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to conduct business in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to be employed at [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to work within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was formerly employed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] had a job in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was previously employed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Previously, [X] was employed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] had a job .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to perform tasks in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to be part of [Y]'s workforce .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used to have employment at [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was employed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] used to work .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] had previous employment at [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used to perform duties in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used to be associated with [Y]'s operations .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] had a previous job in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] once held a job in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] worked at the premises of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used to have a job within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used to have a position within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used to have a job in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used to engage in work in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

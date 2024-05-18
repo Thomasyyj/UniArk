@@ -1,0 +1,47 @@
+{"template": "[X] is headquartered in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] houses [X]'s headquarters .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] has its base in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] hosts [X]'s main office .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] operates from [Y]'s headquarters .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The location of [X]'s headquarters is at [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the central hub for [X]'s operations .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has established its main office in [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The headquarters of [X] is situated within [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where [X] has its corporate headquarter .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s primary headquarters is located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The primary base of operations for [X] is in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The base of operations for [X] is in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The central hub of [X] can be found in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The central command post for [X] is located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the main base for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The central headquarters for [X] is in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The central administrative location for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the central base for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where [X] has its main office .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where [X] has its main headquarters .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] houses the headquarters of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The central command center of [X] is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has its central office located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has its central establishment situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the primary location for [X]'s headquarters .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s primary office is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The main hub for [X] is located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The central hub for [X] is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] houses the main offices of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has its primary establishment in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The main base of [X] is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has its main establishment in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] serves as the headquarters for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The headquarters location for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The central command center of [X] is in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] houses the central offices of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The main control center for [X] is in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The main base of operations for [X] is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is home to the headquarters of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has its main administrative center in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The central office location for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s central operations are based in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has its headquarters situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s headquarters is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The main office of [X] is located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has its main operations center in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

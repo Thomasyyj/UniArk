@@ -1,0 +1,32 @@
+{"template": "[X] is a term in [Y]'s law .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Legal term: [X] in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y]'s legal term: [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal concept in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] is a legal term .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The legal terminology of [Y] defines [X] as a fundamental term .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Within [Y]'s legal framework, [X] carries significant legal implications .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] is a legal term with wide-ranging applications .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Under the jurisdiction of [Y], [X] holds substantial legal authority and responsibility .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "According to [Y]'s laws, [X] is a legally binding term that governs specific applications .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal term used in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal term encompassed by [Y]'s laws .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] is a legal term with specific meaning .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal term denoting [Y]'s jurisdiction .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Under [Y], [X] is a legal term .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal term recognized in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] is a legal term with specific implications .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a term defined by the law in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal term outlined by [Y]'s legal system .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Under the jurisdiction of [Y], [X] is a legal term .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a legal provision in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "According to [Y]'s laws, [X] is a legal term .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The legal context of [Y] recognizes [X] as a term .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "According to the legal definition in [Y], [X] is a term .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The legal system in [Y] defines [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] is a legal expression .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] refers to a legal principle in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a legal term with relevance in [Y]'s legal context .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The legal terminology of [Y] includes [X] as a term .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a legal term that falls under [Y]'s jurisdiction .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a legal term applicable in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The legislation of [Y] defines [X] as a legal term .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

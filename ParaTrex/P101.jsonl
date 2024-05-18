@@ -1,0 +1,30 @@
+{"template": "[X]'s field: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Expertise in [Y] is [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] does work in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is engaged in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] specializes in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "In the professional realm, [X] operates within the field of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The specialization of [X] lies in [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is actively engaged in the practice of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has dedicated their professional life to [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Within [Y]'s professional domain, [X] operates and functions .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a specialist in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] specializes in the field of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is involved in the area of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has experience in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The field of expertise for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is involved in the profession of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] conducts research in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is committed to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is active in the area of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is well-versed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a practitioner of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is known for their work in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] operates within the domain of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has a professional background in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has a specialization in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has expertise in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is an expert in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is an industry professional in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] works professionally in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] works extensively in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

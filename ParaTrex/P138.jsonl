@@ -1,0 +1,43 @@
+{"template": "[X]'s name honors [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The name of [X] reflects [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] inspires [X]'s name .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] named after [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] named for [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The origin of [X]'s name can be traced back to the influence of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] acquired its name as a result of its connection with [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The naming of [X] was directly influenced by the historical significance of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] was given its name to commemorate the contributions of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] bears the name of [Y] in recognition of their significant impac .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The name of [X] pays tribute to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The naming of [X] was influenced by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The inspiration for [X]'s name can be traced back to its connection with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] bears the name of [Y] in its honor .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is known by its name, which reflects [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The name of [X] derives from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] takes its name from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] carries the namesake of [Y] in one language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the namesake for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was named after [Y] due to their connection .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The name [X] was chosen as a tribute to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The choice of [X]'s name was inspired by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] carries the name of [Y] as a sign of respect .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the reason behind [X]'s name .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the etymological root of [X]'s name .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The name [X] references [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] took its name from the influence of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] derives its name from the legacy of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The name [X] is an homage to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was given its name in honor of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The name of [X] is linked to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The name [X] is derived from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the source of inspiration for the name [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] adopted its name from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The naming of [X] was influenced by the legacy of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the inspiration behind the name of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The name [X] is a reference to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] left a lasting impact, leading to [X]'s name .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] derives its name from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was given its name as a tribute to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The inspiration for [X]'s name can be traced back to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] serves as the inspiration for the name of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] inspired the name of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

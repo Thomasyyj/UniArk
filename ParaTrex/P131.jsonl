@@ -1,0 +1,38 @@
+{"template": "[X] lies within [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] resides in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] locates at [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Located in [Y] is [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be located within the borders of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The geographical position of [X] is in [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned within the territorial boundaries of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be found situated in the nation of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The place where [X] is located falls under [Y]'s sovereignty .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Find [X] in the sovereign state called [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is placed within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The territorial region of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The territorial region of [X] falls within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The nation of [X] can be found in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The boundaries of [X] encompass [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned under [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The geographical borders of [X] are [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] can be found .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The geographical boundaries of [X] are [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated under [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The geographical location of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] falls within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "You can find [X] in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The geographical location of [X] falls within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The territory of [X] lies in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The territorial borders of [X] extend to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] falls within the sovereign state of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be found in the sovereign state of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In terms of sovereignty, [X] belongs to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be found within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The sovereign state of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is placed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is located within [Y]'s sovereignty .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is located within the sovereign state of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

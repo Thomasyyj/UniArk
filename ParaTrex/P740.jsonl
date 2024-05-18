@@ -1,0 +1,44 @@
+{"template": "[X] formed in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s founding location is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] started in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] originates from [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Birthplace of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] originated in [Y] as the birthplace of the organization .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The organization [X] was established in location [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] came into being at [Y] when the group was formed .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The group [X] traces its roots back to [Y] where it was founded .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] found its beginnings as the organization's birth sit .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The establishment of [X] originated from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] had its beginnings in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was established in [Y] as its birthplace .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] was established .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The birth of [X] happened in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The foundation of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where [X] took its first steps .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "It was in [Y] that [X] had its origins .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] came into being .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] had its inception .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] came into existence in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The establishment of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the birthplace of [X]'s foundation .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the birth site of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] originated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where [X] was founded .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The emergence of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], the organization [X] was formed .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The formation of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] witnessed the foundation of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] came into existence .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] was formed .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was formed in [Y] during its inception .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The creation of [X] happened in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the location where [X] was established .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] witnessed the inception of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The establishment of [X] originated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The birthplace of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The foundation of [X] was in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The inception of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The origins of [X] trace back to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The founding of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] found its roots in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "It was in [Y] that [X] was founded .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

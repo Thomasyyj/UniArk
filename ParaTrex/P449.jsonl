@@ -1,0 +1,40 @@
+{"template": "[X] premiered on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] first aired on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] debuted on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] was broadcast on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] originated on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The show [X] made its debut on television during the airing on [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The original broadcast of [X] took place on [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The first episode of [X] was aired on the network [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The initial showing of [X] was on television during [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The series [X] premiered on the channel [Y] and began its ru .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The network that first showed [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The original network for airing [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the initial network to air [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The original network for [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The network responsible for the original airing of [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was first televised on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The initial broadcast of [X] was on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] originally premiered on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The network that first aired [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the original channel for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The first episode of [X] was shown on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the original station for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the network that originally showed [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The premiere episode of [X] was on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The network that broadcasted the first episode of [X] was [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] originally broadcasted [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The first season of [X] was broadcasted on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was the original broadcaster of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The first season of [X] aired on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] aired the premiere of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was first aired on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] made its debut on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The first run of [X] was on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The first episode of [X] was broadcasted on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was the network that premiered [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The initial airing of [X] took place on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The original airing of [X] was on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The first episode of [X] was aired on [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] aired the original broadcast of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] originally televised [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

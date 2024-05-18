@@ -1,0 +1,45 @@
+{"template": "[X] has diplomatic relations with [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Diplomacy exists between [X] and [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] share diplomatic ties .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Official diplomatic connection: [X] and [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Diplomatic links: [X] and [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The government of [X] has established official diplomatic relations with [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Diplomatic engagement between [X] and [Y] has been formalized by their governments .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] maintain an official diplomatic alliance characterized by regular exchanges .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The diplomatic relationship between [X] and [Y] is acknowledged and supported internationally .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Both [X] and [Y] are signatories to a formal diplomatic agreement, fostering bilateral tie .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The governments of [X] and [Y] engage in diplomatic exchanges .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The diplomatic status between [X] and [Y] is recognized .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Diplomatic communication is upheld between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] share an official diplomatic relationship .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has established diplomatic rapport with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The diplomatic relations of [X] extend to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Diplomatic channels are open between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The government of [X] has established diplomatic links with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Diplomatic ties exist between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] maintain official diplomatic relations .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] have official diplomatic connections .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Diplomatic agreements have been made between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The country [X] has an active diplomatic relationship with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] maintains a diplomatic connection with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Official diplomatic ties are in place between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The diplomatic connection of [X] extends to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The countries of [X] and [Y] maintain diplomatic exchanges .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The countries [X] and [Y] share diplomatic protocols .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Diplomatic exchanges are conducted between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Diplomatic ties have been established between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] maintains formal diplomatic relations with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has forged diplomatic connections with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] have a diplomatic alliance .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Diplomatic relations between [X] and [Y] are in place .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are engaged in diplomatic relations .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The countries [X] and [Y] engage in diplomatic discourse .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] have established diplomatic relations .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The governments of [X] and [Y] maintain diplomatic channels .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The diplomatic connection between [X] and [Y] is established .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Diplomatic channels exist between [X] and [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The nations of [X] and [Y] have established diplomatic links .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] maintains official diplomatic ties with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Diplomatic negotiations between [X] and [Y] are ongoing .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has established diplomatic ties with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The diplomatic ties between [X] and [Y] are maintained .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

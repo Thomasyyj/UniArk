@@ -1,0 +1,44 @@
+{"template": "[X] follows [Y] religion .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is of [Y] faith .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] practices [Y] beliefs .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] adheres to [Y] religious tradition .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with [Y] religion .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is affiliated with the [Y] religion, embracing its core beliefs and practices .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The religious identity of [X] aligns with the teachings and principles of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Regarding matters of faith, [X] is linked to the [Y] religious community .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] finds its spiritual foundation within the context of the [Y] religious doctrine .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In matters of religion, [X] is connected to the beliefs and rituals of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is connected to the [Y] faith .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is affiliated with the [Y] religious organization .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] follows the rituals of the [Y] faith .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] practices the [Y] religion .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] follows the customs of the [Y] faith .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The [Y] religion is practiced by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The religious practice of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The religious affiliation of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is devoted to the [Y] religion .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] embraces the beliefs of the [Y] religion .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The [Y] religious group includes [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The religious faith of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The [Y] religious doctrine is upheld by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is aligned with the [Y] religious belief .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] identifies with the [Y] religion .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The religion of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is associated with the [Y] religious denomination .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is dedicated to the [Y] religious community .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is associated with the [Y] religious order .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is connected to the [Y] religious institution .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The [Y] religious tradition is embraced by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] adheres to the tenets of the [Y] religion .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a follower of the [Y] faith .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a member of the [Y] religious community .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The religion embraced by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The religion followed by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a member of the [Y] religious sect .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The religious orientation of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The [Y] faith is affiliated with [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The [Y] religion is followed by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The [Y] faith is associated with [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] adheres to the principles of the [Y] faith .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The [Y] religious movement includes [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The religion practiced by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

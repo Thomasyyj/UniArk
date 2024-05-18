@@ -1,0 +1,43 @@
+{"template": "[X] contains [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] forms [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] includes [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] contributes to [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] comprises [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is structured with [Y] as an integral part .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] constitutes a significant component of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is primarily composed of [Y], among other elements .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] makes up a substantial portion of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] relies on [Y] as a fundamental building bloc .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] constitutes a portion of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] forms an element of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] makes up [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is comprised of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] makes a component of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] constitutes [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is formed by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is a part of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] adds to the composition of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] shapes the nature of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] consists primarily of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is structured with [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] incorporates [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is assembled from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is constituted by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is an intrinsic element of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is an essential part of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] composes [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] relies on [Y] for its existence .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] forms part of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is constructed with the help of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is composed mainly of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is composed of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is an integral component of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] makes [X] what it is .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is constructed from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is made up of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is a constituent of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] occupies a place in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is a building block of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is made complete by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] encompasses [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is included in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

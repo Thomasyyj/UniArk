@@ -1,0 +1,45 @@
+{"template": "[X]'s profession is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a [Y] in occupation .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] works as a professional [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The occupation of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "As their profession, [X] is a [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "In terms of their career, [X] holds a professional position as a [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "As a [Y], [X] actively engages in their chosen field of work .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The primary focus of [X]'s occupation lies in the domain of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Concerning [X]'s profession, they occupy a [Y] role in their field .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Professionally, [X] is known for their work as a [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is employed as a professional [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The field of work for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The professional role of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "As a [Y], [X] carries out their work .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] pursues [Y] as their career .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is involved in [Y] for their livelihood .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In terms of their career, [X] is a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] works as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "As a [Y], [X] earns their livelihood .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] holds a professional position as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The job of [X] is being a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] specializes in [Y] as their profession .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] practices [Y] for a living .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The field of expertise for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a [Y] by profession and occupation .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "As a [Y], [X] works professionally .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a [Y] in their profession .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] holds a professional role as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "As their occupation, [X] is a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Professionally, [X] engages in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is employed as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The profession of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The job of [X] is in the [Y] field .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] holds a job as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In terms of profession, [X] is a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is engaged in [Y] professionally .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "As a [Y], [X] earns a living .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In terms of career, [X] is a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] specializes in [Y] as a profession .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is an individual who works as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] practices [Y] as their occupation .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] practices [Y] as their profession .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The occupation pursued by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "As a professional [Y], [X] earns a living .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The profession pursued by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

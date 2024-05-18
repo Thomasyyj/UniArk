@@ -1,0 +1,43 @@
+{"template": "[X]'s capital: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Capital of [X]: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] capital: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] capital city: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s capital is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The city of [Y] holds the status of being the capital of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] assumes the role of the capital city in [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The official capital of [X] is the vibrant city of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] designates [Y] as its capital, serving as the political and administrative center .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] stands as the recognized capital city of [X], embodying its cultural and political significanc .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The central city in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is governed from its capital city, [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s capital city is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] identifies [Y] as its capital .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] considers [Y] as its capital city .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [X], [Y] holds the status of the capital .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The capital of [X] is officially recognized as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where the capital of [X] is situated .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where the central government of [X] operates .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the primary administrative center for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is presided over by [Y] as its capital .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] holds the status of the capital city in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the official capital of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] stands as the political center of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the capital city of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where the government of [X] is based .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] recognizes [Y] as its capital .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is designated as the capital of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] names [Y] as its capital city .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the principal city of [X]'s governance .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] declares [Y] as its capital city .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] takes on the role of the capital in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is recognized as the capital city of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] establishes [Y] as its capital .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] serves as the seat of government in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] designates [Y] as its capital city .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] designates [Y] as its political center .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The capital city [Y] is found in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] holds the position of the capital in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The main city responsible for governance in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The capital designation for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The primary administrative hub of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The central governing body of [X] is located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

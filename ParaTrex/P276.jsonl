@@ -1,0 +1,34 @@
+{"template": "[X] resided within [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] located inside [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] was found in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] existed within [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] was part of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The presence of [X] was within the boundaries of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Embedded within [Y], [X] held its place .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The geographical position of [X] could be traced back to [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The essence of [X] was contained within the domain of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In the context of [Y], [X] was situate .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] could be seen in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] encountered [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] saw the occurrence of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] became visible in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] hosted [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] made an appearance in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] could be observed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] showed up in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] witnessed the presence of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] had the presence of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] presented itself in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] could be found in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] contained the occurrence of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] became evident in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] made its appearance in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was present in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was witnessed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was the setting for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] played host to [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] emerged within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] had its place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] had [X] in it .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

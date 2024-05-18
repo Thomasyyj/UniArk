@@ -1,0 +1,39 @@
+{"template": "[X] belongs to [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] owns [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] possesses [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the owner of [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] has legal ownership of [X], making [X] their property .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The possession of [X] is attributed to [Y], who is its rightful owner .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is held by [Y] in their ownership, retaining full control over it .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The proprietorship of [X] is vested in [Y], signifying their ownership .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Under the ownership of [Y], [X] is rightfully possessed and controlled .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is in the ownership of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] exercises ownership over [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] holds ownership over [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the proprietor of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is the property of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is solely owned by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is the asset of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] has possession of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is within the ownership of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] has obtained ownership of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is in the possession of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] has acquired ownership of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the rightful owner of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] falls under the ownership of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the possessor of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is under the control of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] exercises full control over [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] possesses full rights to [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] controls [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] retains ownership of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] has ownership of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is held by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is under the ownership of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] has [X] as its property .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the legal owner of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] has legal possession of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is in [Y]'s possession .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is the personal property of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] maintains ownership of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] has exclusive ownership of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

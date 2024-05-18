@@ -1,0 +1,41 @@
+{"template": "[X]'s developer is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] developed [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] created [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Creator of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] was created by [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The organization responsible for the development of [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "With [Y] at the helm, [X] underwent development .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The brilliant minds at [Y] worked on developing [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Under [Y]'s guidance, [X] was meticulously developed .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Through extensive development efforts, [Y] brought [X] to lif .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The team at [Y] developed [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was instrumental in the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was conceptualized and developed by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a product of [Y]'s development efforts .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] dedicated resources to develop [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Organisation [Y] is the developer of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] took the lead in developing [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was developed under the guidance of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the organization behind the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] fostered the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] played a key role in developing [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was invented by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] worked on the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] invested efforts in developing [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] spearheaded the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] undertook the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is credited with the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] owes its existence to [Y]'s development team .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The development and design of [X] was led by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is the result of [Y]'s development endeavors .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] came into existence through the efforts of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The creation and development of [X] can be attributed to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is responsible for the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] pioneered the development of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] emerged as a result of [Y]'s development .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was formulated and developed by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The development of [X] can be credited to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a creation of [Y]'s development team .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] emerged as a result of [Y]'s development process .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] had a hand in developing [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was made possible through [Y]'s development initiatives .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

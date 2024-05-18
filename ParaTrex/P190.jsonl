@@ -1,0 +1,38 @@
+{"template": "[X] and [Y] are twin cities with a cooperative agreement .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Sister cities: [X] and [Y] have a twinning partnership .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Twin towns: [X] and [Y] share a recognized cooperative bond .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] are officially twinned municipalities .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Cooperative alliance: [X] and [Y] are twin cities .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Established as sister cities, [X] and [Y] have a formal cooperative partnership .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Recognized by their governments, [X] and [Y] are twinned municipalities with a shared bond .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Twin towns [X] and [Y] have an acknowledged partnership that promotes cooperation .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "With a formal agreement between their governments, [X] and [Y] are designated as twin cities .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Cooperatively twinned, [X] and [Y] have a recognized alliance between their municipalitie .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "With a partnership agreement, [X] and [Y] are twinned municipalities .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Twinning [X] with [Y], these cities have a cooperative partnership .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The cooperative partnership between [X] and [Y] makes them twin cities .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Connected as twin cities, [X] and [Y] share a unique bond .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Formally recognized as twin towns, [X] and [Y] have a cooperative alliance .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Connected as twin cities, [X] and [Y] share a cooperative bond .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The governments of [X] and [Y] have recognized them as sister cities .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Formally acknowledged as twin towns, [X] and [Y] have a special bond .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Twinning [X] with [Y], these cities maintain a special connection .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The governments of [X] and [Y] have an established partnership as twin towns .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] form a twin-town connection .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Linked as twin towns, [X] and [Y] share a special connection .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] and [Y] are in a twin-city relationship .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Twin towns [X] and [Y] have a recognized cooperative alliance .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "Sister cities [X] and [Y] have established a cooperative partnership .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Twin towns [X] and [Y] have an acknowledged cooperative relationship .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The governments of [X] and [Y] have an informal agreement as sister cities .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The governments of [X] and [Y] have an informal agreement, making them sister cities .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Recognized as twin cities, [X] and [Y] share a special partnership .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are twinned municipalities, fostering a cooperative relationship .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are twinned municipalities, fostering cooperation between them .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "With a formal agreement, [X] and [Y] are recognized as sister cities .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Twin cities [X] and [Y] have established a formal cooperative alliance .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The governments of [X] and [Y] have mutually acknowledged them as twin towns .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "With a formal partnership, [X] and [Y] are sister cities .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Recognized as sister cities, [X] and [Y] have a cooperative relationship .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] and [Y] are cities that share a special bond as twin towns .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "Established as twin cities, [X] and [Y] share a unique partnership .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

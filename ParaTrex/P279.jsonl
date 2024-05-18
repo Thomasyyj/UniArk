@@ -1,0 +1,35 @@
+{"template": "[X] subclass of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a subset of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] includes all [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a type of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] encompasses all [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a form of [Y], sharing common characteristics .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] belongs to the category defined by [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the superclass for all instances of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a specialized subgroup, part of the broader [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] falls into the hierarchical classification of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is an offshoot of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a specialized form of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is an example of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the overarching class of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated under [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the main category of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] includes all types of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the broader class for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is classified as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the superclass of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the parent group of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the superior class for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a component of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a subclassification of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is grouped within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the parent class of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is categorized under [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the higher-level class for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a division of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a subcategory of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a form of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a subgroup of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is an offshoot category of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is a subset category of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is part of the [Y] class .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

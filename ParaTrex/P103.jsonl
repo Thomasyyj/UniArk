@@ -1,0 +1,44 @@
+{"template": "[X]'s native language is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Language of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] speaks [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Language [Y] for [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s tongue is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] possesses [Y] as the language ingrained in their early life .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The language [Y] became [X]'s native tongue from a tender age .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] developed fluency in [Y], the language learned during their upbringing .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the language [X] naturally adopted during their formative years .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] was immersed in [Y] as their native language since childhoo .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the native tongue of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language that [X] speaks natively is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the language [X] was raised with .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has spoken [Y] since they were young .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] started using [Y] as their mother tongue .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The native tongue of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] acquired [Y] as their native language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the native language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a native speaker of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] has known [Y] since childhood .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the language of [X]'s early years .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is [X]'s first language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] grew up speaking [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] began communicating in [Y] as a youngster .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] acquired fluency in [Y] during childhood .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language [X] speaks natively is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the language [X] grew up speaking .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] learned [Y] as a child .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was raised speaking [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "From childhood, [X] has spoken [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language of [X]'s upbringing is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was brought up speaking [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] learned to speak [Y] from infancy .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is [X]'s first learned language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] grew up using [Y] as their language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the language [X] is fluent in .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] started speaking [Y] from a young age .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the language spoken by [X] from childhood .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is what [X] learned growing up .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the first language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] became fluent in [Y] at an early age .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s mother tongue is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "From early on, [X] has spoken [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the primary language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

@@ -1,0 +1,34 @@
+{"template": "[X] communicated in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] used [Y] for talking .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] employed [Y] for communication .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was [X]'s language .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] conversed using [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the spoken language employed by [X] for their interactions .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] engaged in communication through [Y] as their primary language .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In the past, [X] relied on [Y] for effective communication .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the language employed by [X] for communication in the past .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] served as one method for [X] to communicate with others in the past .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] engaged in communication through [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] employed [Y] as their language of interaction .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the means of expression used by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] spoke using the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] used [Y] as their means of communication .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] spoke [Y] for their communication needs .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] interacted using the language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] relied on [Y] to convey their messages .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] utilized [Y] for their interactions .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] made themselves understood through [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the communication method of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] was the means of expression for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] made use of [Y] to communicate .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] utilized [Y] to exchange information .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] used [Y] as their language of interaction .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] employed [Y] language for communication .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] communicated using [Y] language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] conveyed information using [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] engaged in dialogue using [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] relied on [Y] for communication .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was the language used by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was the spoken language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] was one language of choice for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] spoke using [Y] language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

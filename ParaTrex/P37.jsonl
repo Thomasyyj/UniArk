@@ -1,0 +1,36 @@
+{"template": "Official language of [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Language recognized by [X] as official is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s official language is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] designates [Y] as the official language .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] has [Y] as its official language .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the designated language used by authorities in [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] has been declared as the recognized language in [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The authorized language utilized within [X] is officially identified as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In [X], [Y] is acknowledged as the prescribed language by the government .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The language sanctioned by [X] as its official means of communication is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The language mandated as official by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is given the official language status by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The officially recognized language in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] recognizes [Y] as its official language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the language officially designated by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language endorsed by [X] as official is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is granted official language status in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the official language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language sanctioned as official in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] holds the status of the official language in [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] designates [Y] as its official linguistic medium .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] acknowledges [Y] as its official language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] acknowledges [Y] as its official communication medium .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] serves as the official language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The designated official language of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language adopted as official by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] designates [Y] as its official language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is officially recognized as the language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] bestows official language status upon [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language recognized as official in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] holds the official language designation of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language stipulated as official in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language used officially in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The official language recognized by [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is designated as the official language of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] affirms [Y] as its official language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

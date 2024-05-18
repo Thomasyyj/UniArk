@@ -1,0 +1,29 @@
+{"template": "[X] is in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is [X]'s country .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X]'s location: [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be found in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] houses [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The sovereign state where you'll find [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The nation-state of [X] is officially designated as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Within the territorial boundaries of [Y] lies [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The country of [Y] serves as the host nation for [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The geographical location of [X] is situated within [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] exists in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the country where [X] is situated .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is where [X] can be found .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The geographical placement of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] is situated .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "One can find [X] within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The official location of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the designated country for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] lies within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the home country of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is situated within the territory of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], you'll find [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is where [X] is officially located .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The location of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be discovered in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is found within the borders of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

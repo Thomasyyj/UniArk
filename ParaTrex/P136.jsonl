@@ -1,0 +1,35 @@
+{"template": "[X]'s music is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Experience [Y] music by [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] excels in [Y] music .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] specializes in [Y] genre .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Discover [Y] melodies with [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Immerse yourself in the enchanting world of [Y] music with [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Indulge in the soulful rhythms of [Y] with the incredible talent of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Let [X] take you on a musical journey with their captivating [Y] compositions .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Experience the evocative power of [Y] music through the artistic expression of [X] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "Discover the innovative sounds of [Y] music as brought to life by the creativity of [X .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] brings a fresh perspective to [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] exhibits expertise in [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] produces music in the [Y] genre .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] masters the art of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] delves into the world of [Y] melodies .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] dives into the world of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] immerses listeners in [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] evokes emotions with [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] presents [Y] music to audiences .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] experiments with [Y] music styles .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] infuses [Y] music with their own style .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] specializes in [Y] melodies .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] explores the depths of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] brings the essence of [Y] music to life .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is known for playing [Y] style music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] ventures into the realm of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] harmonizes [Y] music with various influences .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] plays soulful [Y] melodies .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] brings innovation to [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] performs [Y] tunes .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] showcases [Y] music in their repertoire .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] expresses emotions through [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] embraces the essence of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] captures the spirit of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] embodies the spirit of [Y] music .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

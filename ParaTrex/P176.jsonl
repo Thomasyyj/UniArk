@@ -1,0 +1,38 @@
+{"template": "[Y] makes [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] produces [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] manufactures [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X], created by [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] creates [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The producer responsible for manufacturing [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The manufacturer behind [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the company that produces [X] through their manufacturing process .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is crafted and manufactured by [Y], a leading producer in the industry .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the creator and producer of [X], supplying it to the marke .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the company that crafts [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the manufacturer behind [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] produces and manufactures [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is created by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is manufactured by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is crafted by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is responsible for making [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the manufacturer that creates [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the company that makes [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the producer that manufactures [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The manufacturer of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is crafted and produced by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is assembled and produced by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is assembled by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is made by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is constructed by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the maker of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the company that develops [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the designer and creator of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is made and manufactured by [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the creator of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the producer behind [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the creator and producer of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the company that produces [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the manufacturer of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the builder of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The producer of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is responsible for producing [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

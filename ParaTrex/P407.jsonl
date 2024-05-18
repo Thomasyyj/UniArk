@@ -1,0 +1,37 @@
+{"template": "[X] language is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Language in [X] is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Written in [Y], [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "Language [Y] is used for [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] uses [Y] as language .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The creators of [X] expressed their ideas by writing it in [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The language employed to create [X] is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The written form of [X] is attributed to the usage of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The literary work [X] originated through the composition in [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], the authors of [X] penned their thoughts, resulting in its creation .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The text of [X] was written in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The author of [X] used [Y] as the medium of expression .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The creators of [X] expressed their ideas in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The mode of expression for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language utilized in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was given form through language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language employed to write [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was put into words using [Y] as the language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The written work [X] was created using [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] took form through the words written in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was crafted using [Y] as the language .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In language [Y], [X] was written .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The language used in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The written text of [X] is in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The words used to write [X] were in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The written version of [X] was composed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language utilized in writing [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The written edition of [X] was composed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language employed in [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was composed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was written down using [Y] as the language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The literary work [X] was written using language [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was recorded in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was created using [Y] as the language .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The language of expression for [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] was documented in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The words of [X] were penned in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

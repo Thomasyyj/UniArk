@@ -1,0 +1,35 @@
+{"template": "[X] is in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] on [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] part of [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] located in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] lies in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The geographical location of [X] falls within the continent of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be found situated in the continent known as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a part of the continent [Y]'s vast landmass .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The region where [X] is located belongs to the continent of [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] lies within the territorial boundaries of the continent [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated within [Y]'s continent .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] lies within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is situated in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is part of [Y]'s continent .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be observed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be located within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is part of the continent called [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is part of the continent [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] can be found within [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] lies on [Y]'s continent .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is placed on [Y]'s continent .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is placed within [Y]'s territory .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned on the continent [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is situated within the continent of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is situated on the continent [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be observed on [Y]'s continent .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is located within the borders of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is on the continent of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be seen on [Y]'s continent .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is found within the continent of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be found on the continent of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is situated amid [Y]'s lands .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is placed on the continent named [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] can be located in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is placed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

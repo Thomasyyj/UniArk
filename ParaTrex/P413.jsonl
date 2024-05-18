@@ -1,0 +1,42 @@
+{"template": "[X]'s position is [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] plays as [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] takes [Y] position .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is [X]'s position .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] operates at [Y] position .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] is involved in the team or game while occupying the [Y] position .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] actively participates within the context of [Y] role .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] engages in the activity, assuming the responsibilities of [Y] position .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] carries out tasks, playing the role assigned to [Y] position .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] is a part of the performance, occupying the [Y] position in the setu .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the specific position for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the playing position for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] plays as a [Y] specialist .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] assumes the position of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] occupies the [Y] position .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned as a [Y] player .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the primary position for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "In the team, [X] plays as a [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] is positioned as the [Y] player .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the specific role for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the position played by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] operates as a [Y] in a team .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The position of [X] on the team is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "On the team, [X] holds the [Y] position .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[Y] is the assigned position for [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] plays the [Y] position on the team .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] operates in the [Y] position .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the specialized role of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is positioned as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is known for their expertise in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is positioned as a [Y] specialist .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is assigned to the [Y] position .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is known for playing [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the position occupied by [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X]'s designated role is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is the position where [X] plays .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is the designated [Y] player .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] is primarily positioned as [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] is where [X] is positioned .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] fills the [Y] position .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] takes on the position of [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] specializes in the [Y] position .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}

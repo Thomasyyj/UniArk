@@ -1,0 +1,42 @@
+{"template": "[X] originates from [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], [X] was created .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] came to life in [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[Y] birthed [X] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "[X] emerged from [Y] .", "prompt_type": "short paraphrase", "inhouse_split": "test"}
+{"template": "The country where [X] was created is [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "In [Y], the origins of [X] can be traced .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The birthplace of [X] can be identified as [Y] .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The roots of [X] can be traced back to [Y]'s creation .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "The inception of [X] can be attributed to [Y]'s innovatio .", "prompt_type": "long paraphrase", "inhouse_split": "test"}
+{"template": "[X] has its origins in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The origin of [X] dates back to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The roots of [X] can be traced back to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The development of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The formation of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was first established in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially crafted in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The conception of [X] originated from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "It was in [Y] that [X] was first created .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was first crafted in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The creation of [X] took place in country [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was first developed in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "It was in [Y] where [X] had its beginnings .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was first introduced in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] emerged in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "[X] was initially established in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "test"}
+{"template": "The formation of [X] took place in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The origins of [X] can be traced back to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] came into existence in country [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "It was in [Y] that [X] was first made .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] originated in country [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] originated from [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "In [Y], [X] was first introduced .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The inception of [X] occurred in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The invention of [X] is credited to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The birthplace of [X] is [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] had its beginnings in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The inception of [X] can be dated to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[X] has its roots in [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "[Y] witnessed the creation of [X] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The creation of [X] can be attributed to [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
+{"template": "The birth of [X] can be attributed to country [Y] .", "prompt_type": "normal paraphrase", "inhouse_split": "train"}
