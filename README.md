@@ -1,7 +1,7 @@
 # UniArk
 The repository for the NAACL 2024 paper "[UniArk: Improving Generalisation and Consistency for Factual Knowledge Extraction through Debiasing](https://arxiv.org/abs/2404.01253)".
 
-Thanks for your attention. The code and dataset ParaTrex has been uploaded.
+Thanks for your attention. The code and dataset ParaTrex has been available.
 
 ## Environments
 To set up the required enviroments, use:
